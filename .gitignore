@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+Berksfile.lock
+build/
+*.log
+artifacts
+temp-auth.json
+.vscode
